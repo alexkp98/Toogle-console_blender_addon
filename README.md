@@ -1,2 +1,2 @@
 # Blender_addons
-all my addons will be available here
+A simple addon to toggle system console from the scripting workspace
